@@ -50,10 +50,10 @@ color: #000;
 /*top background*/
 .intro-header {
     height: 855px;  
-    padding-top: 50px; /* If you're making other pages, make sure there is 50px of padding to make sure the navbar doesn't overlap content! */
+    padding-top: 50px;
     padding-bottom: 50px;
     text-align: center;
-    background: url('https://s18.postimg.org/mxjjyt761/green_desk.jpg') no-repeat center center fixed;
+    background: url('/images/bck1.jpeg') no-repeat center center fixed;
     background-size: cover;
     height: 855px;
 }
@@ -142,7 +142,7 @@ hr.intro-divider {
 /*section 2*/
 .content-section-a {
     padding: 50px 0;
-    background: url('https://s22.postimg.org/fjnsvsmpt/skills_background_img.jpg') no-repeat center center fixed;
+    background: url('/images/bck2.jpeg') no-repeat center center fixed;
     background-size: cover;
     height: 855px;
 }
@@ -195,7 +195,7 @@ hr.intro-divider {
 /* Portfolio section*/
 section {
   color: black;
-  background: url('https://s10.postimg.org/pc1bigqrt/UUY821_MG70.jpg') no-repeat center center fixed;
+  background: url('/images/bck3.jpeg') no-repeat center center fixed;
   background-size: cover;
 }
 
@@ -332,7 +332,7 @@ section {
 
 .banner {
     padding: 100px 0;
-    background: url('https://s18.postimg.org/66ey2y21l/TBLSDTI1_UL.jpg') no-repeat center center fixed;
+    background: url('/images/bck4.jpeg') no-repeat center center fixed;
     background-size: cover;
     height: 755px;
 }
