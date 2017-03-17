@@ -53,7 +53,7 @@ color: #000;
     padding-top: 50px;
     padding-bottom: 50px;
     text-align: center;
-    background: url('/images/bck1.jpeg') no-repeat center center fixed;
+    background: url('https://raw.githubusercontent.com/DVN-Anakin/DVN-Anakin.github.io/master/images/bck1.jpeg') no-repeat center center fixed;
     background-size: cover;
     height: 855px;
 }
@@ -142,7 +142,7 @@ hr.intro-divider {
 /*section 2*/
 .content-section-a {
     padding: 50px 0;
-    background: url('/images/bck2.jpeg') no-repeat center center fixed;
+    background: url('https://raw.githubusercontent.com/DVN-Anakin/DVN-Anakin.github.io/master/images/bck2.jpeg') no-repeat center center fixed;
     background-size: cover;
     height: 855px;
 }
@@ -195,7 +195,7 @@ hr.intro-divider {
 /* Portfolio section*/
 section {
   color: black;
-  background: url('/images/bck3.jpeg') no-repeat center center fixed;
+  background: url('https://raw.githubusercontent.com/DVN-Anakin/DVN-Anakin.github.io/master/images/bck3.jpeg') no-repeat center center fixed;
   background-size: cover;
 }
 
@@ -332,7 +332,7 @@ section {
 
 .banner {
     padding: 100px 0;
-    background: url('/images/bck4.jpeg') no-repeat center center fixed;
+    background: url('https://raw.githubusercontent.com/DVN-Anakin/DVN-Anakin.github.io/master/images/bck4.jpeg') no-repeat center center fixed;
     background-size: cover;
     height: 755px;
 }
